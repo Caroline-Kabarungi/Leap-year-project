@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db380f4c-aadb-4065-bc63-042d273098cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ flow control/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6th project/6th project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays(m)/Arrays(m).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance assignment/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritence 2/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leap years project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Leap years project/META-INF/Leap years project.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Leap years project/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../My first Project/My first Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TEST/.idea/TEST.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class work/class work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class work/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../daily work2/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flow control assignment/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlina assigment/kotlina assigment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my Array/my Array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my daily work/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my good project/my good project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my test/my test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myproject/src/main/kotlin/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop kotlin/oop kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop project/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project arrays/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project/project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python for beginners/src/digital clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/out/production/recap2/META-INF/recap2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/out/production/recap2/MainKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/recap2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recap2/src/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings assign/strings assign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../strings/strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="27e3Gn63gP4p3DldEfEHjUBnWeK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="Leap years project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db380f4c-aadb-4065-bc63-042d273098cf" name="Changes" comment="" />
+      <created>1649666631486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649666631486</updated>
+    </task>
+    <servers />
+  </component>
+</project>
